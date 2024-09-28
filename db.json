@@ -1,0 +1,76 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Airpods Apple, com Estojo de Recarga, Bluetooth",
+        "description": "AirPods Apple, com Estojo de Recarga, Bluetooth, Branco\nO Novo AirPods traz uma experiência nova em usar fones de ouvido sem fio.",
+        "price": 1200,
+        "cover": "https://png.pngtree.com/png-clipart/20230508/original/pngtree-airpods-png-image_9149137.png"
+      },
+      {
+        "id": 2,
+        "title": "Notebook Gamer Lenovo Gaming 3i Intel Core i5-11300H",
+        "description": "Lenovo Ideapad Gaming 3i\nNovo design com 11ª Geração de Processadores Intel Core i5-11300H e placa de vídeo NVIDIA GTX 1650.",
+        "price": 5500,
+        "cover": "https://www.lenovo.com/medias/ideapad-gaming3i-photo1-1-.png?context=bWFzdGVyfHJvb3R8MTM4NTExM3xpbWFnZS9wbmd8aDk2L2g2Mi8xNDk0MTgyNzMzNDE3NC5wbmd8NzY4MDMyMzJlYzViMjkyMTQ0NjUxNDcyYTQ4ZDc4ZWE3ZWZiNGNlYWZjMzZlZDBlNDgzMDBkOTNlNDI4NzMwNg"
+      },
+      {
+        "id": 3,
+        "title": "Monitor Gamer BENQ 240HZ",
+        "description": "Monitor para jogos - taxa de atualização 240HZ",
+        "price": 1600,
+        "cover": "https://png.pngtree.com/png-vector/20231018/ourmid/pngtree-curve-screen-gaming-monitor-device-png-image_10206079.png"
+      },
+      {
+        "id": 4,
+        "title": "Apple Iphone 16 ",
+        "description": "Teclado HyperX Alloy MKW100, HXR4I-R-EUA/G - APS1EIAMABA\nObtenha uma iluminação radiante e por tecla com efeitos dinâmicos.",
+        "price": 15200,
+        "cover": "https://v2-allugator-images.s3.amazonaws.com/products/iphone-16-1.png"
+      },
+      {
+        "id": 5,
+        "title": "Apple Iphone 15 Pro Max",
+        "description": "Teclado HyperX Alloy MKW100, HXR4I-R-EUA/G - APS1EIAMABA\nObtenha uma iluminação radiante e por tecla com efeitos dinâmicos.",
+        "price": 8500,
+        "cover": "https://meuimportadors.com/wp-content/uploads/2023/10/iPhone-15-Rosa.png"
+      },
+      {
+        "id": 6,
+        "title": "Apple Watch",
+        "description": "Teclado HyperX Alloy MKW100, HXR4I-R-EUA/G - APS1EIAMABA\nObtenha uma iluminação radiante e por tecla com efeitos dinâmicos.",
+        "price": 200,
+        "cover": "https://fastexpo.net/wp-content/smush-webp/2019/10/Apple-Watch-Apple-Watch-Iwatch-PNG-Image.png.webp"
+      },
+      {
+        "id": 7,
+        "title": "Apple Watch ",
+        "description": "Teclado HyperX Alloy MKW100, HXR4I-R-EUA/G - APS1EIAMABA\nObtenha uma iluminação radiante e por tecla com efeitos dinâmicos.",
+        "price": 2200,
+        "cover": "https://www.pngarts.com/files/8/Apple-Watch-PNG-Download-Image.png"
+      },
+      {
+        "id": 8,
+        "title": "Headset HyperX Cloud 2",
+        "description": "Teclado HyperX Alloy MKW100, HXR4I-R-EUA/G - APS1EIAMABA\nObtenha uma iluminação radiante e por tecla com efeitos dinâmicos.",
+        "price": 8500,
+        "cover": "https://images.tcdn.com.br/img/img_prod/1211726/headset_gamer_cloud_core_181_1_aca0424c2d923ab6eaf952b21055b568.png"
+      },
+      {
+        "id": 9,
+        "title": "Gabinete Gamer",
+        "description": "Teclado HyperX Alloy MKW100, HXR4I-R-EUA/G - APS1EIAMABA\nObtenha uma iluminação radiante e por tecla com efeitos dinâmicos.",
+        "price": 8500,
+        "cover": "https://hayom.com.br/tecnologia/wp-content/uploads/2023/06/gb1749-site.png"
+      },
+      {
+        "id": 10,
+        "title": "RTX 4060 TI 16 GB RAM",
+        "description": "Teclado HyperX Alloy MKW100, HXR4I-R-EUA/G - APS1EIAMABA\nObtenha uma iluminação radiante e por tecla com efeitos dinâmicos.",
+        "price": 8500,
+        "cover": "https://asset.msi.com/resize/image/global/product/product_1684397602eb9f48f9a4cb8084634fb4ded7227345.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+      }
+      
+    ]
+}
+  
